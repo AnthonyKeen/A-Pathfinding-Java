@@ -1,0 +1,5 @@
+TerrainGrid Notes
+
+The TerrainNode class contains all of the structural information and data for a single node including knowledge of who its neighbors are.
+
+The TerrainGrid class sets up a grid based on initial inputs. During the setup it creates the TerrainNode instances necessary and properly initializes them.

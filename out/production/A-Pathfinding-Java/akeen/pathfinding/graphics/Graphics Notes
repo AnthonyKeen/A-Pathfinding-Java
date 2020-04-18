@@ -1,0 +1,5 @@
+Graphics for Grids Notes
+
+The GridFrame and GridPanel class are used to graphically represent a TerrainGrid composed of TerrainNodes.
+
+The graphical components rely on the TerrainGrid and TerrainNode, but the TerrainGrid and the TerrainNode do not rely on the graphical components in any way.
