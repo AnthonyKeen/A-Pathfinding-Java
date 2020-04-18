@@ -1,0 +1,8 @@
+Pathfinding Notes
+
+The Pathable Interface allows the Pathfinding algorithm to not care about the structure of the object for which it is trying to find a path. It expects that the class implementing that interface to figure out the relationships for us.
+
+The Pathfinder class exposes only the static method findPath, everything else is used privately for its internal computation and attempt at efficiency.
+The PathfindingNode class is used to augment the data that comes in with the parent reference and the f, g, and h values needed by the algorithm.
+
+The PathfindingMain class is only used for testing to demonstrate how these classes are called.

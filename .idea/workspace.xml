@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fec2a5ec-c619-4d69-8b97-422d313f6602" name="Default Changelist" comment="" />
+    <list default="true" id="fec2a5ec-c619-4d69-8b97-422d313f6602" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/akeen/TerrainGrid/TerrainGrid Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akeen/TerrainGrid/TerrainGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akeen/TerrainGrid/TerrainNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akeen/pathfinding/Pathable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akeen/pathfinding/Pathfinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akeen/pathfinding/Pathfinding Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akeen/pathfinding/PathfindingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akeen/pathfinding/PathfindingNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akeen/pathfinding/graphics/Graphics Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akeen/pathfinding/graphics/GridFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akeen/pathfinding/graphics/GridPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +51,15 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java/akeen" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
@@ -37,6 +71,7 @@
     <configuration name="A* Pathfinding Demo" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="akeen.pathfinding.PathfindingMain" />
       <module name="A-Pathfinding-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -52,21 +87,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587182364748</updated>
-      <workItem from="1587182368934" duration="79000" />
+      <workItem from="1587182368934" duration="850000" />
+      <workItem from="1587183251073" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587182450923">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587183219122">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587182450923" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587183219122" />
     <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587182437532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587182437532" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587183293529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587183293529" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587183199806" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1587183225670">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587183225670" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1587183225670">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587183225670" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1587183225670">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587183225670" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1587183225670">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587183225670" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1587183056330">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587183056330" />
   </component>
 </project>
